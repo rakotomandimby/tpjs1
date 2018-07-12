@@ -1,0 +1,59 @@
+input[type=button],input[type=reset] 
+  {
+  background-color: #ee432e;
+  font: bold 20px/1 "helvetica neue", helvetica, arial, sans-serif;
+  padding: 12px 0 14px 0;
+  color: white;
+  text-align: center;
+  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.8);
+  width: 150px; }
+
+  input[type=button]:hover {
+    background-color: #f37873;
+    cursor: pointer; 
+  }
+
+    input[type=reset]:hover 
+    {
+    background-color: #f37873;
+    cursor: pointer; 
+  }
+
+  input[type=button]:active {
+    color: #000;
+    background: blue;
+   }
+
+   input[type=text]{
+      width: 250px; 
+      height: 40px; 
+      font-size: 35px;
+      font-family:Tahoma, Garamond, sans-serif, italic;
+      text-align: right;
+      margin-left: 375px; 
+      font-weight: bolder; 
+      background-color:#ee432e;
+      text-shadow: 3px 2px 3px gray;
+      border: 1px solid black;
+      padding:10px;
+      box-shadow: 6px 6px 4px black;
+
+   }
+h1{
+    width: 250px; 
+    height: 40px; 
+    font-size: 35px;
+    font-family:Tahoma, Garamond, sans-serif, italic;
+    text-align: center;
+    margin-left: 375px; 
+    font-weight: bolder; 
+    background-color:rgb(4, 230, 247);
+    text-shadow: 3px 2px 3px rgb(134, 134, 134);
+    border: 1px solid rgb(255, 255, 255);
+    padding:10px;
+    box-shadow: 6px 6px 4px black;
+    color: rgb(243, 247, 36);
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/8iAP1eI.jpg)
+}
